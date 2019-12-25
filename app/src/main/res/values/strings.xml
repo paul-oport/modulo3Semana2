@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Agenda de Contactos</string>
+    <string name="btn_Siguiente">Siguiente</string>
+    <string name="etNombre">Nombre Completo</string>
+    <string name="etTelefono">Teléfono</string>
+    <string name="etEmail">Email</string>
+    <string name="etDescripcion">Descripción Contacto</string>
+    <string name="tvDescripcion">Descripción</string>
+    <string name="etConfirmar">Confirmar Datos</string>
+    <string name="etFecha">Fecha Nacimiento</string>
+
+</resources>
